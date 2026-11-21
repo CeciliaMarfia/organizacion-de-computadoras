@@ -4,10 +4,10 @@ Material teórico-práctico de Organización de Computadoras (Facultad de Inform
 
 ## Estructura
 
-- `Teoria/`: diapositivas de las clases teóricas.
-- `Practica/`: prácticas, resoluciones y explicaciones de práctica.
-- `Parciales/`: parciales de años anteriores.
-- `Final/`: material para preparar el final.
+- `teoria/`: diapositivas de las clases teóricas.
+- `practica/`: prácticas, resoluciones y explicaciones de práctica.
+- `parciales/`: parciales de años anteriores.
+- `final/`: material para preparar el final.
 
 ## Temas
 
